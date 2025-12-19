@@ -16,6 +16,7 @@
     "id": 2,
     "name": "Standard Plan",
     "price": 2500,
+    "popular":true,
     "duration": "Monthly",
     "currency": "BDT",
     "features": [
