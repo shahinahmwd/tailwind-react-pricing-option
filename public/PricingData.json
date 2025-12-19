@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 1500,
+    "duration": "Monthly",
+    "currency": "BDT",
+    "features": [
+      "Access to gym equipment",
+      "Cardio zone access",
+      "Locker facility",
+      "Off-peak hours"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 2500,
+    "duration": "Monthly",
+    "currency": "BDT",
+    "features": [
+      "Full gym access",
+      "Cardio & weight training",
+      "Free fitness assessment",
+      "Shower & locker",
+      "Any time access"
+    ],
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 4000,
+    "duration": "Monthly",
+    "currency": "BDT",
+    "features": [
+      "All Standard features",
+      "Personal trainer (8 sessions/month)",
+      "Diet & workout plan",
+      "Group classes (Zumba, HIIT, Yoga)",
+      "Priority support"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Yearly Plan",
+    "price": 25000,
+    "duration": "Yearly",
+    "currency": "BDT",
+    "features": [
+      "Unlimited gym access",
+      "Monthly personal training",
+      "Supplement discounts",
+      "Free gym merchandise"
+    ],
+    "bestValue": true
+  }
+]
